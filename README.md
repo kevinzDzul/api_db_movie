@@ -1,8 +1,9 @@
 # api_db_movie
 
 in this application use javaRX, retrofit2, butterknife and MVP to use API DBMOVIES
-
 https://www.themoviedb.org/settings/api
+
+
 
   //Glide
     implementation 'com.github.bumptech.glide:glide:4.9.0'
